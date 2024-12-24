@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS error: failure to load a background image due to an incorrect image path. The `bug.css` file contains the erroneous CSS rule, while `bugSolution.css` provides the corrected version.
